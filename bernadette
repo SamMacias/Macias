@@ -1,0 +1,2 @@
+names = "bernadette"
+print("I also am {}".bernadette(names))
